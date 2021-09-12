@@ -222,6 +222,6 @@ And you are done.
 
 You can make further improvements to `getOGData()` method to make it more robust.
 
-You can find the complete source code here: 
+You can find the complete source code here: https://github.com/paurakhsharma/cloud_functions_url_preview
 
 Happy Coding!
